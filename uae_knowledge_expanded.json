@@ -1,0 +1,240 @@
+{
+  "cities": {
+    "dubai": {
+      "attractions": [
+        {
+          "name": "Burj Khalifa",
+          "desc": "World’s tallest tower with an observation deck."
+        },
+        {
+          "name": "Dubai Mall & Fountain",
+          "desc": "Shopping + nightly fountain shows."
+        },
+        {
+          "name": "Old Dubai (Al Fahidi & Creek)",
+          "desc": "Historic district, abras (boats), spice & gold souks."
+        },
+        {
+          "name": "Desert Safari",
+          "desc": "Dune bashing, camel rides, and Bedouin-style dinner."
+        }
+      ],
+      "attractions_extra": [
+        {
+          "name": "Museum of the Future",
+          "desc": "Striking architecture + interactive exhibits on tech futures."
+        },
+        {
+          "name": "Dubai Frame",
+          "desc": "Sky bridge with Old vs New Dubai views."
+        },
+        {
+          "name": "Al Seef & Creekside",
+          "desc": "Modern-traditional waterfront promenade."
+        }
+      ],
+      "cultural_tips": [
+        "Dress modestly in religious or traditional areas.",
+        "Public displays of affection are discouraged.",
+        "Friday is a key prayer day; some places open later."
+      ],
+      "food": [
+        "Al Fanar (Emirati cuisine)",
+        "Bu Qtair (seafood)",
+        "Global Village (seasonal street food)"
+      ]
+    },
+    "abu dhabi": {
+      "attractions": [
+        {
+          "name": "Sheikh Zayed Grand Mosque",
+          "desc": "Iconic white marble mosque open to visitors."
+        },
+        {
+          "name": "Louvre Abu Dhabi",
+          "desc": "World-class art museum on Saadiyat Island."
+        },
+        {
+          "name": "Corniche Beach",
+          "desc": "Family-friendly promenade and beaches."
+        },
+        {
+          "name": "Qasr Al Watan",
+          "desc": "Presidential palace with cultural exhibits."
+        }
+      ],
+      "attractions_extra": [
+        {
+          "name": "Qasr Al Hosn",
+          "desc": "Historic fort and cultural foundation."
+        },
+        {
+          "name": "Saadiyat Beach",
+          "desc": "Pristine beach near museums on the island."
+        }
+      ],
+      "cultural_tips": [
+        "Mosques have dress codes; borrow abayas/scarves if needed.",
+        "Taxis and public transport are reliable; use official apps."
+      ],
+      "food": [
+        "Al Ibrahimi (Pakistani/Indian)",
+        "Meylas (Emirati dishes)"
+      ]
+    },
+    "sharjah": {
+      "attractions": [
+        {
+          "name": "Sharjah Museum of Islamic Civilization",
+          "desc": "Extensive Islamic art and artifacts."
+        },
+        {
+          "name": "Al Noor Island",
+          "desc": "Garden with sculptures and Butterfly House."
+        }
+      ],
+      "cultural_tips": [
+        "Sharjah is the most conservative emirate; modest dress is important.",
+        "Alcohol is prohibited in Sharjah."
+      ],
+      "food": [
+        "Al Majaz Waterfront restaurants",
+        "Local bakeries for fresh bread and tea"
+      ]
+    },
+    "ras al khaimah": {
+      "attractions": [
+        {
+          "name": "Jebel Jais",
+          "desc": "UAE’s highest peak with viewing decks and zipline."
+        },
+        {
+          "name": "Dhayah Fort",
+          "desc": "Hilltop fort with panoramic views."
+        }
+      ],
+      "cultural_tips": [
+        "Temperatures cooler in the mountains; bring layers."
+      ],
+      "food": [
+        "Local fish grills near the corniche"
+      ]
+    },
+    "fujairah": {
+      "attractions": [
+        {
+          "name": "Snoopy Island (Dibba)",
+          "desc": "Snorkeling and beach day trips on the east coast."
+        },
+        {
+          "name": "Fujairah Fort",
+          "desc": "Historic fort and heritage village."
+        }
+      ],
+      "cultural_tips": [
+        "Great weekend escape from Dubai—plan 1.5–2.5 hours drive."
+      ],
+      "food": [
+        "Seafood shacks along the coast"
+      ]
+    },
+    "ajman": {
+      "attractions": [
+        {
+          "name": "Ajman Beach & Corniche",
+          "desc": "Relaxed beachfront with cafés and sunset views."
+        },
+        {
+          "name": "Ajman Museum (Fort)",
+          "desc": "Restored 18th-century fort with local history exhibits."
+        }
+      ],
+      "cultural_tips": [
+        "Dress modestly when visiting the museum and mosques.",
+        "Family-friendly vibe; weekends get busy along the corniche."
+      ],
+      "food": [
+        "Sardina (seafood)",
+        "Local shawarma stands on the Corniche"
+      ]
+    },
+    "umm al quwain": {
+      "attractions": [
+        {
+          "name": "UAQ Mangroves & Kayaking",
+          "desc": "Calm waters—great for bird watching and sunset paddles."
+        },
+        {
+          "name": "Dreamland Aqua Park",
+          "desc": "Classic family waterpark near the coast."
+        }
+      ],
+      "cultural_tips": [
+        "Plan outdoor activities early morning or late afternoon.",
+        "Carry cash for smaller, local vendors."
+      ],
+      "food": [
+        "Seafood grills by the lagoon",
+        "Roadside karak tea"
+      ]
+    },
+    "al ain": {
+      "attractions": [
+        {
+          "name": "Jebel Hafeet",
+          "desc": "Scenic mountain drive with viewpoints."
+        },
+        {
+          "name": "Al Ain Oasis",
+          "desc": "UNESCO site with shaded date-palm groves and falaj irrigation."
+        },
+        {
+          "name": "Al Jahili Fort",
+          "desc": "Beautiful fort with cultural exhibits and photo shows."
+        }
+      ],
+      "cultural_tips": [
+        "Al Ain is more traditional—modest dress appreciated.",
+        "Bring water; many sites are outdoors."
+      ],
+      "food": [
+        "Local mandi & mathbi restaurants",
+        "Cafés near the oasis"
+      ]
+    },
+    "hatta": {
+      "attractions": [
+        {
+          "name": "Hatta Dam & Kayaking",
+          "desc": "Turquoise waters surrounded by the Hajar mountains."
+        },
+        {
+          "name": "Hatta Wadi Hub",
+          "desc": "Hiking, mountain biking, archery, and seasonal activities."
+        },
+        {
+          "name": "Hatta Heritage Village",
+          "desc": "Restored village showcasing mountain-life traditions."
+        }
+      ],
+      "cultural_tips": [
+        "Closed shoes for hiking; temperatures cooler than the coast.",
+        "Check activity seasonality (some outdoor hubs are seasonal)."
+      ],
+      "food": [
+        "Food trucks at Wadi Hub (seasonal)",
+        "Local grills in Hatta town"
+      ]
+    }
+  },
+  "country_facts": [
+    "Weekend is typically Saturday–Sunday (Friday remains important for congregational prayers).",
+    "Local currency: AED (Dirham).",
+    "Taxis are metered; Nol/Hafilat cards for some public transit."
+  ],
+  "cultural_tips_general": [
+    "During Ramadan, eating/drinking in public during daylight is restricted.",
+    "Always ask before photographing people.",
+    "Tipping is appreciated but not mandatory (5–10%)."
+  ]
+}
