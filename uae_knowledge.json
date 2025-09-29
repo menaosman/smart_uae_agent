@@ -1,0 +1,128 @@
+{
+  "cities": {
+    "dubai": {
+      "attractions": [
+        {
+          "name": "Burj Khalifa",
+          "desc": "World’s tallest tower with an observation deck."
+        },
+        {
+          "name": "Dubai Mall & Fountain",
+          "desc": "Shopping + nightly fountain shows."
+        },
+        {
+          "name": "Old Dubai (Al Fahidi & Creek)",
+          "desc": "Historic district, abras (boats), spice & gold souks."
+        },
+        {
+          "name": "Desert Safari",
+          "desc": "Dune bashing, camel rides, and Bedouin-style dinner."
+        }
+      ],
+      "cultural_tips": [
+        "Dress modestly in religious or traditional areas.",
+        "Public displays of affection are discouraged.",
+        "Friday is a key prayer day; some places open later."
+      ],
+      "food": [
+        "Al Fanar (Emirati cuisine)",
+        "Bu Qtair (seafood)",
+        "Global Village (seasonal street food)"
+      ]
+    },
+    "abu dhabi": {
+      "attractions": [
+        {
+          "name": "Sheikh Zayed Grand Mosque",
+          "desc": "Iconic white marble mosque open to visitors."
+        },
+        {
+          "name": "Louvre Abu Dhabi",
+          "desc": "World-class art museum on Saadiyat Island."
+        },
+        {
+          "name": "Corniche Beach",
+          "desc": "Family-friendly promenade and beaches."
+        },
+        {
+          "name": "Qasr Al Watan",
+          "desc": "Presidential palace with cultural exhibits."
+        }
+      ],
+      "cultural_tips": [
+        "Mosques have dress codes; borrow abayas/scarves if needed.",
+        "Taxis and public transport are reliable; use official apps."
+      ],
+      "food": [
+        "Al Ibrahimi (Pakistani/Indian)",
+        "Meylas (Emirati dishes)"
+      ]
+    },
+    "sharjah": {
+      "attractions": [
+        {
+          "name": "Sharjah Museum of Islamic Civilization",
+          "desc": "Extensive Islamic art and artifacts."
+        },
+        {
+          "name": "Al Noor Island",
+          "desc": "Garden with sculptures and Butterfly House."
+        }
+      ],
+      "cultural_tips": [
+        "Sharjah is the most conservative emirate; modest dress is important.",
+        "Alcohol is prohibited in Sharjah."
+      ],
+      "food": [
+        "Al Majaz Waterfront restaurants",
+        "Local bakeries for fresh bread and tea"
+      ]
+    },
+    "ras al khaimah": {
+      "attractions": [
+        {
+          "name": "Jebel Jais",
+          "desc": "UAE’s highest peak with viewing decks and zipline."
+        },
+        {
+          "name": "Dhayah Fort",
+          "desc": "Hilltop fort with panoramic views."
+        }
+      ],
+      "cultural_tips": [
+        "Temperatures cooler in the mountains; bring layers."
+      ],
+      "food": [
+        "Local fish grills near the corniche"
+      ]
+    },
+    "fujairah": {
+      "attractions": [
+        {
+          "name": "Snoopy Island (Dibba)",
+          "desc": "Snorkeling and beach day trips on the east coast."
+        },
+        {
+          "name": "Fujairah Fort",
+          "desc": "Historic fort and heritage village."
+        }
+      ],
+      "cultural_tips": [
+        "Great weekend escape from Dubai—plan 1.5–2.5 hours drive."
+      ],
+      "food": [
+        "Seafood shacks along the coast"
+      ]
+    }
+  },
+  "country_facts": [
+    "Weekend is typically Saturday–Sunday (with Friday important for congregational prayers).",
+    "Local currency: AED (Dirham).",
+    "Taxis are metered; Nol/Hafilat cards for some public transit."
+  ],
+  "cultural_tips_general": [
+    "During Ramadan, eating/drinking in public during daylight is restricted.",
+    "Always ask before photographing people.",
+    "Tipping is appreciated but not mandatory (5–10%)."
+  ]
+}
